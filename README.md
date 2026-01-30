@@ -8,6 +8,7 @@ A high-performance sentiment classifier built with Python that predicts whether 
 - **Vectorization:** TF-IDF with Bigrams (captures context like "not good")
 - **Efficiency:** Model is saved as a `.pkl` file for instant inference without retraining.
 - **Dataset:** 50,000 IMDB Reviews
+
 ![Live Demo](demo.png)
 
 
@@ -28,5 +29,6 @@ A high-performance sentiment classifier built with Python that predicts whether 
 1. **Installation:**
    ```bash
    pip install pandas scikit-learn joblib nltk
+
 
 
